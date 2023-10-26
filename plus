@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2023 Takuto Suzukawa
+# SPDX-License-Indentifier: GPL-3.0
+
 import sys
 
 ans = 0
