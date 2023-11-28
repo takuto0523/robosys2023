@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2023 Takuto Suzukawa
-# SPDX-License-Indentifier: GPL-3.0
+# SPDX-License-Indentifier: BSD-3-Clause
 
 import sys
 
