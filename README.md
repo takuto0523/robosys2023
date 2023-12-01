@@ -35,5 +35,5 @@ seqの後の数字は5でなくても大丈夫です。
 * GitHubが利用できる環境で下記のコマンドを入力してください。
 
 ```
-$ git clone https://github.com/takuto0523/robosys2023.git
+$ git clone git@github.com:takuto0523/robosys2023.git
 ```
